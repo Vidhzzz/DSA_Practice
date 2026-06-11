@@ -11,3 +11,5 @@
 |   |Had a break due to exams and practicals, will be consistent again.
 | 7 | Next Greater Element I | [Link](https://leetcode.com/problems/next-greater-element-i/) | 08-06-2026 |
 | 8 | Maximum Total Subarray Value I | [Link](https://leetcode.com/problems/maximum-total-subarray-value-i/) | 09-06-2026 |
+| 9 | Search a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/) | 11-06-2026 |
+| 10 | Search a 2D Matrix II | [Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 11-06-2026 |
