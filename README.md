@@ -16,3 +16,7 @@
 | 11 | Trapping Rainwater | [Link](https://leetcode.com/problems/trapping-rain-water/) | 12-06-2026 |
 | 12 | Asteroid Collision | [Link](https://leetcode.com/problems/asteroid-collision/) | 24-06-2026 |
 | 13 | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/) | 04-07-2026 |
+| 14 | Longest Substring Wothout Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 04-07-2026 |
+| 15 | Maximum Points You Can Obtain From Cards | [Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 04-07-2026 |
+| 16 | Maximum Consecutive Ones III | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | 04-07-2026 |
+
