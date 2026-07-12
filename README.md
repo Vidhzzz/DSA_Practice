@@ -19,4 +19,5 @@
 | 14 | Longest Substring Wothout Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 11-07-2026 |
 | 15 | Maximum Points You Can Obtain From Cards | [Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 11-07-2026 |
 | 16 | Maximum Consecutive Ones III | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | 11-07-2026 |
+| 17 | Number of Elapsed Seconds Between Two Times | [Link](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | 12-07-2026 |
 
