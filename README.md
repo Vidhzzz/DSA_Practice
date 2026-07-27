@@ -24,3 +24,4 @@
 | 19 | Fruits into Baskets | [Link](https://leetcode.com/problems/fruit-into-baskets/) | 18-07-2026 |
 | 20 | Climbing Stairs | [Link](https://leetcode.com/problems/climbing-stairs/) | 21-07-2026 |
 | 21 | Frog Jump | [Link](https://leetcode.com/problems/frog-jump/) | 22-07-2026 |
+| 22 | Maximum Product of Two Elements in an Array | [Link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | 27-07-2026 |
